@@ -1,0 +1,6 @@
+customer_id,status,updated_at
+101,Active,2026-11-01 10:00
+102,Active,2026-11-01 11:00
+101,Inactive,2026-11-02 09:00
+103,Active,2026-11-01 12:00
+102,Inactive,2026-11-03 08:00

@@ -1,0 +1,23 @@
+{
+  "order_id": 1001,
+  "customer": {
+    "customer_id": 101,
+    "name": "John"
+  },
+  "items": [
+    {
+      "product_id": "P1",
+      "product_name": "Laptop",
+      "price": 50000
+    },
+    {
+      "product_id": "P2",
+      "product_name": "Mouse",
+      "price": 500
+    }
+  ],
+  "address": {
+    "city": "Chennai",
+    "state": "Tamil Nadu"
+  }
+}
